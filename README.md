@@ -320,5 +320,5 @@ sys.exit(0) # Mengakhiri program dengan kode keluar 0
 Kode ini mengimplementasikan klien untuk permainan menebak warna dengan melakukan komunikasi dengan server, meminta input pengguna, dan menampilkan umpan balik dari server.
 
 # output
-[![N|Solid]([[https://cldup.com/dTxpPi9lDf.thumb.png](https://github.com/mrclhans/UTS_PROGJARR/blob/main/1.PNG)](https://raw.githubusercontent.com/mrclhans/UTS_PROGJARR/main/2.PNG))]
+![img]([drawing.jpg](https://raw.githubusercontent.com/mrclhans/UTS_PROGJARR/main/1.PNG))
 [![N|Solid]([[https://cldup.com/dTxpPi9lDf.thumb.png](https://github.com/mrclhans/UTS_PROGJARR/blob/main/2.PNG)](https://raw.githubusercontent.com/mrclhans/UTS_PROGJARR/main/1.PNG))]
