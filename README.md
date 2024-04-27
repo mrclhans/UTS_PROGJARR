@@ -321,4 +321,4 @@ Kode ini mengimplementasikan klien untuk permainan menebak warna dengan melakuka
 
 # output
 ![img](https://raw.githubusercontent.com/mrclhans/UTS_PROGJARR/main/1.PNG)
-![img]([https://raw.githubusercontent.com/mrclhans/UTS_PROGJARR/main/1.PNG](https://raw.githubusercontent.com/mrclhans/UTS_PROGJARR/main/2.PNG))
+![img](https://raw.githubusercontent.com/mrclhans/UTS_PROGJARR/main/2.PNG)
